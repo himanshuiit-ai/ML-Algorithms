@@ -1,2 +1,1 @@
-# ML-Algorithms
-Mathematical implementation of core Machine Learning algorithms from scratch. Includes first-principles development of Linear, Multiple, and Polynomial Regression with a focus on cost function optimization and gradient descent analysis.
+Hardcore implementation of ML/DL algorithms from first principles. No high-level frameworks, just NumPy and Calculus.
